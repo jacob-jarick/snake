@@ -32,12 +32,8 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
-snake/Library/metadata/*.*
-snake/Library/metadata
+snake/Library/*
 *.bin
 snake/Temp/UnityLockfile
 *.meta
-snake/Library/assetDatabase3
-snake/Library/UnityAssemblies/*
-snake/Library/ScriptAssemblies/*
 snake/Temp/*
