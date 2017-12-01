@@ -36,3 +36,8 @@ snake/Library/metadata/*.*
 snake/Library/metadata
 *.bin
 snake/Temp/UnityLockfile
+*.meta
+snake/Library/assetDatabase3
+snake/Library/UnityAssemblies/*
+snake/Library/ScriptAssemblies/*
+snake/Temp/*
